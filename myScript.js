@@ -18,5 +18,4 @@ console.log(typeof jump);
 for(var i = start; i <= end; i+=jump)
   {
     document.write('<p>' + i + '</p>');
-  }  
 }
